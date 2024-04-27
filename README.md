@@ -1,2 +1,2 @@
-# ruletka
-Ruletka losująca
+# Ruletka
+Jedna z pokazowych stron internetowych
